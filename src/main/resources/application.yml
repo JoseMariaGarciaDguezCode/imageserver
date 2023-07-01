@@ -34,11 +34,11 @@ spring:
 spring:
   profiles: dev
   datasource:
-    url: jdbc:postgresql://localhost:5432/postgres
-    username: postgres
-    password: ekoloji
+    url: jdbc:postgresql://217.182.69.205:5432/imageserver
+    username: stekerp
+    password: QG3aUF148dNPr5hR6Tap
 server:
-  port: 8080
+  port: 8383
 
 ---
 
